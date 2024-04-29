@@ -1,4 +1,4 @@
-package Task.Third Task;
+// package Task.Third Task;
 //Write a JAVA program to find the maximum between three numbers.
 import java.util.Scanner;
 public class Task1 {
