@@ -13,6 +13,7 @@ public class task2 {
         }else {
             System.out.println("Zero");
         }
+        scan.close();
     }
     
 }
